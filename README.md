@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xansiety&label=Profile%20views&color=c0c0c0&style=flat-square" alt="xansiety" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xansiety" alt="xansiety" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xansiety&theme=onedark" alt="xansiety" /></a> </p>
 
 - 🔭 I’m currently working on **My own mobile application developed in Flutter, having Firebase as DB.**
 
